@@ -1,0 +1,7 @@
+//1. Pilih tombol berdasarkan ID-nya
+const tombolsapa - ducument.getelementById('sapaButton');
+// 2.Tambahkan 'even listener' untuk aksi 'click'
+tombolSapa.addEventListener('click'fuction() {
+    //3. Jalankan kode ini ketikan tombol-klik
+  alter('Halo! Terima Kasih Sudah berkunjung!');
+});
